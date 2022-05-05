@@ -16,7 +16,7 @@ Blops: armazena dados
 Trees: armazena os BLOPS
 Commits: Armazena todos os acima.
 
-CHAVES SSH 
+CHAVES SSH: rever como criar
 
 CRIANDO UM REPOSITÓRIO GIT:
 
