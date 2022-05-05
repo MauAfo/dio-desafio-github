@@ -4,7 +4,9 @@ MKDIR ex: mkdir filmes 	(mesma coisa no linux)
 CRIANDO UM TXT DENTRO DA PASTA VIA CMD:
 Echo hello > hello.txt
 O comando DEL só deleta arquivos.
-Para remover pastas (repositórios) usa-se o comando RM. EX:
+Para remover pastas (repositórios) usa-se o comando RM. 
+
+EX:
 Rmdir filmes
 SE a pasta possuir arquivos, use:
 Rmdir filmes /s /q				rm -rf filmes/ (linux)
