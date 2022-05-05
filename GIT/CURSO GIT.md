@@ -1,7 +1,11 @@
+CRIANDO PASTAS:
+MKDIR ex: mkdir filmes 	(mesma coisa no linux)
+
 CRIANDO UM TXT DENTRO DA PASTA VIA CMD:
 Echo hello > hello.txt
 O comando DEL só deleta arquivos.
-Para remover pastas (repositórios) usa-se o comando RM. EX:
+Para remover pastas (repositórios) usa-se o comando RM. 
+EX:
 Rmdir filmes
 SE a pasta possuir arquivos, use:
 Rmdir filmes /s /q				rm -rf filmes/ (linux)
@@ -30,7 +34,7 @@ MARKDOWN: * antes de escrever (h´s do html)
 Sua extensão é o MD
 
 GIT STATUS : serve para monitorar os status dos arquivos
-Git commit -m
+Git commit -m “comentário”
 Git add * = adiciona todas as modificações para dentro do stage
-PRIMEIRO: Git add + git commit + 
-
+Git push origin main
+PRIMEIRO: Git add + git commit + git push origin main
