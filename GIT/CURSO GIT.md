@@ -37,7 +37,9 @@ Sua extensão é o MD
 GIT STATUS : serve para monitorar os status dos arquivos
 Git commit -m “comentário”
 Git add * = adiciona todas as modificações para dentro do stage
-Git push origin master
-PRIMEIRO: Git add + git commit + git push origin master (ou apenas git push)
+Git push origin master: envia tudo para o github
 
+PARA RESOLVER CONFLITOS: git pull origin master (puxa do github o repositório)
+
+PRIMEIRO: Git add + git commit + git push origin master (ou apenas git push)
 
